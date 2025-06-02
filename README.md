@@ -11,4 +11,5 @@
 <p align="left">I'm studying at <b>Technischools</b></p><br>
 <p align="left">I can't imagine my life without music</p><br>
 <p align="left">I wouldn't call myself an extravertic, however i thrive when it comes to working in a group</p><br>
-<p align="left">I'm really passionate about marmots</p>
+<p align="left">I'm really passionate about marmots</p><br>
+<p align="left">I'm a total nerd when it comes to metal</p><br>
