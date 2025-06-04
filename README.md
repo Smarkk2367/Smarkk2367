@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTIwbjJxdzhneDFmN2ZlbHdtcGZwbXlsM3l0b2l2bnQzcjg5MG5zMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)" width="300" />
+</p>
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">A rising programmist from Poland</h3>
 
