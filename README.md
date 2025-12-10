@@ -166,6 +166,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smarkk2367&radius=16&theme=redical&area=true&order=5&custom_title=My%20contributions&color=FFFF&title_color=FFFF&point=FFF&line=920909&bg_color=490505&area_color=c31f1f" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=46&section=header&reversal=false&text=Thanks%20for%20sticking%20around&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=59&stroke=FFFFFF&strokeWidth=0.1&descSize=20&descAlign=50&descAlignY=50&color=490505"  />
 </div>
