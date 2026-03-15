@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">I'm a Jack of All Trades 🤡 from Poland🤍❤️<br><br>-  ♠️ I'm currently studying at TechniSchools<br>- ♥️ I'm currently working on something special🤫<br>- ♣️ Always open for new experiences and knowledge<br>- ♦️ I love to combine my personal interests with my work</p>
+<p align="center">I'm a Jack of All Trades from Poland🤍❤️<br><br>-  ♠️ I'm currently studying at TechniSchools<br>- ♥️ I'm currently working on something special🤫<br>- ♣️ Always open for new experiences and knowledge<br>- ♦️ I love to combine my personal interests with my work</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">🎼Languages:</h2>
+<h2 align="center">Languages:</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="center">🎞️Frameworks:</h2>
+<h2 align="center">Frameworks:</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="center">🎪Databases:</h2>
+<h2 align="center">Databases:</h2>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h2 align="center">🎨Graphics:</h2>
+<h2 align="center">Graphics:</h2>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<h2 align="center">🧰Softwares/IDE's/Tools:</h2>
+<h2 align="center">Softwares/IDE's/Tools:</h2>
 
 ###
 
@@ -140,7 +140,7 @@
 
 ###
 
-<h2 align="center">🎲Everything Else:</h2>
+<h2 align="center">Everything Else:</h2>
 
 ###
 
@@ -156,7 +156,7 @@
 
 ###
 
-<h3 align="center">🎴And many, many more...</h3>
+<h3 align="center">And many, many more...</h3>
 
 ###
 
