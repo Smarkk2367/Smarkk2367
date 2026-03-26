@@ -178,7 +178,7 @@
 
 ###
 
-<img src="[assets/body.png](https://github.com/Smarkk2367/Smarkk2367/blob/561cde42d06dcf9ffe05bde9449d250d79bf8e48/assets/body.png)"/>
+<img src="https://github.com/Smarkk2367/Smarkk2367/blob/561cde42d06dcf9ffe05bde9449d250d79bf8e48/assets/body.png"/>
 
 ###
 
