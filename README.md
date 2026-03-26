@@ -178,6 +178,24 @@
 
 ###
 
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <image href="assets/body.svg" width="400" height="200"/>
+
+  <a href="#">
+    <image href="assets/knob.svg" x="50" y="50" width="40" height="40"/>
+  </a>
+
+  <a href="#">
+    <image href="assets/knob.svg" x="120" y="50" width="40" height="40"/>
+  </a>
+
+  <a href="#">
+    <image href="assets/knob.svg" x="190" y="50" width="40" height="40"/>
+  </a>
+</svg>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=46&section=header&reversal=false&text=Thanks%20for%20sticking%20around&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=59&stroke=FFFFFF&strokeWidth=0.1&descSize=20&descAlign=50&descAlignY=50&color=490505"  />
 </div>
