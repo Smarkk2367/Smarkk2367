@@ -178,21 +178,7 @@
 
 ###
 
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-  <image href="assets/body.svg" width="400" height="200"/>
-
-  <a href="#">
-    <image href="assets/knob.svg" x="50" y="50" width="40" height="40"/>
-  </a>
-
-  <a href="#">
-    <image href="assets/knob.svg" x="120" y="50" width="40" height="40"/>
-  </a>
-
-  <a href="#">
-    <image href="assets/knob.svg" x="190" y="50" width="40" height="40"/>
-  </a>
-</svg>
+<img src="[assets/body.png](https://github.com/Smarkk2367/Smarkk2367/blob/561cde42d06dcf9ffe05bde9449d250d79bf8e48/assets/body.png)"/>
 
 ###
 
