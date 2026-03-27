@@ -178,7 +178,9 @@
 
 ###
 
-<img src="https://github.com/Smarkk2367/Smarkk2367/blob/561cde42d06dcf9ffe05bde9449d250d79bf8e48/assets/body.png"/>
+<div align="center">
+  <img src="https://github.com/Smarkk2367/Smarkk2367/blob/7d09a32d52c76438c3c706e214c0f8bb97efcb64/assets/body.png"/>
+</div>
 
 ###
 
