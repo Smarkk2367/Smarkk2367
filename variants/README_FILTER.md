@@ -167,7 +167,7 @@
 ###
 
 <div align="center">
-  <img src="assets/filter.svg"/>
+  <img src="../assets/filter.svg"/>
 </div>
 
 ###

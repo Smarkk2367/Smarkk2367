@@ -167,7 +167,7 @@
 ###
 
 <div align="center">
-  <img src="assets/tone.svg"/>
+  <img src="../assets/tone.svg"/>
 </div>
 
 ###
