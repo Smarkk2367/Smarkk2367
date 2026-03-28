@@ -169,6 +169,9 @@
 <div align="center">
   <img src="../assets/tone.svg"/>
 </div>
+<div align="center">
+  <h3><a href="../README.md.md">TONE<a> | <a href="variants/README_FILTER_TONE.md">FILTER<a> | <a href="variants/README_TONE_VOLUME.md">VOLUME<a></h3>
+</div>
 
 ###
 
