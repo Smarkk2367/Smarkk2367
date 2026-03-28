@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="center">What's up?</h2>
+<h1 align="center">What's up?</h1>
 
 ###
 
-<h4 align="center">About Me...</h4>
+<h3 align="center">About Me...</h3>
 
 ###
 
@@ -24,11 +24,11 @@
 
 ###
 
-<h2 align="center">TechStack</h2>
+<h1 align="center">TechStack</h1>
 
 ###
 
-<h3 align="center">Languages:</h3>
+<h2 align="center">Languages:</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="center">Frameworks:</h3>
+<h2 align="center">Frameworks:</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="center">Databases:</h3>
+<h2 align="center">Databases:</h2>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h3 align="center">Graphics:</h3>
+<h2 align="center">Graphics:</h2>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h3 align="center">Softwares/IDE's/Tools:</h3>
+<h2 align="center">Softwares/IDE's/Tools:</h2>
 
 ###
 
@@ -138,7 +138,7 @@
 
 ###
 
-<h3 align="center">Everything Else:</h3>
+<h2 align="center">Everything Else:</h2>
 
 ###
 
@@ -154,18 +154,18 @@
 
 ###
 
-<h4 align="center">And many, many more...</h4>
+<h3 align="center">And many, many more...</h3>
 
 ###
 
 <div align="center">
-  <h2>🤘</h2>
+  <h1>🤘</h1>
 </div>
 
 ###
 
 <div align="center">
-  <img src="assets/clean.svg"/>
+  <img src="assets/volume.svg"/>
 </div>
 
 ###
@@ -177,7 +177,7 @@
 ###
 
 <div align="center">
-  <h2>Thanks for sticking around!</h2>
+  <h1>Thanks for sticking around!</h1>
 </div>
 
 <div align="center">

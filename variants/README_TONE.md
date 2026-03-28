@@ -1,3 +1,5 @@
+<i>
+
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU0dTJhcGxhdjA4a3ZpZjd5MWk0eWdhbzB6YXA3YzA4NjBqeHZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"  />
 </div>
@@ -165,7 +167,7 @@
 ###
 
 <div align="center">
-  <img src="assets/clean.svg"/>
+  <img src="assets/tone.svg"/>
 </div>
 
 ###
@@ -185,3 +187,4 @@
 </div>
 
 ###
+<i/>

@@ -1,3 +1,4 @@
+<s>
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU0dTJhcGxhdjA4a3ZpZjd5MWk0eWdhbzB6YXA3YzA4NjBqeHZ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"  />
 </div>
@@ -28,7 +29,7 @@
 
 ###
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Languages:</h3></s>
 
 ###
 
@@ -50,7 +51,7 @@
 
 ###
 
-<h3 align="center">Frameworks:</h3>
+<s><h3 align="center">Frameworks:</h3></s>
 
 ###
 
@@ -68,7 +69,7 @@
 
 ###
 
-<h3 align="center">Databases:</h3>
+<s><h3 align="center">Databases:</h3></s>
 
 ###
 
@@ -86,7 +87,7 @@
 
 ###
 
-<h3 align="center">Graphics:</h3>
+<s><h3 align="center">Graphics:</h3></s>
 
 ###
 
@@ -104,7 +105,7 @@
 
 ###
 
-<h3 align="center">Softwares/IDE's/Tools:</h3>
+<s><h3 align="center">Softwares/IDE's/Tools:</h3></s>
 
 ###
 
@@ -138,7 +139,7 @@
 
 ###
 
-<h3 align="center">Everything Else:</h3>
+<s><h3 align="center">Everything Else:</h3></s>
 
 ###
 
@@ -154,6 +155,7 @@
 
 ###
 
+<s>
 <h4 align="center">And many, many more...</h4>
 
 ###
@@ -165,7 +167,7 @@
 ###
 
 <div align="center">
-  <img src="assets/clean.svg"/>
+  <img src="assets/filter.svg"/>
 </div>
 
 ###
@@ -185,3 +187,4 @@
 </div>
 
 ###
+<s/>
