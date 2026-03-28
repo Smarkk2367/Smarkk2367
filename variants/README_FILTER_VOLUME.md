@@ -178,7 +178,7 @@
 ###
 
 <div align="center">
-  <img src="../assets/volume.svg"/>
+  <img src="../assets/filter_volume.svg"/>
 </div>
 
 ###

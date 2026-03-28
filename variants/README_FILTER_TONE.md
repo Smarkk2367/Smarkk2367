@@ -168,7 +168,7 @@
 ###
 
 <div align="center">
-  <img src="../assets/filter.svg"/>
+  <img src="../assets/tone_filter.svg"/>
 </div>
 
 ###

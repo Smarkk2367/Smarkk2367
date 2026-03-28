@@ -166,7 +166,7 @@
 ###
 
 <div align="center">
-  <img src="../assets/volume.svg"/>
+  <img src="../assets/tone_volume.svg"/>
 </div>
 
 ###
