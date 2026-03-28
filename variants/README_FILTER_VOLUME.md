@@ -180,6 +180,9 @@
 <div align="center">
   <img src="../assets/filter_volume.svg"/>
 </div>
+<div align="center">
+  <h3><a href="README_FULL.md">TONE<a> | <a href="README_VOLUME.md">FILTER<a> | <a href="README_FILTER.md">VOLUME<a></h3>
+</div>
 
 ###
 
