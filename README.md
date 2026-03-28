@@ -167,8 +167,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Smarkk2367/Smarkk2367/blob/7d09a32d52c76438c3c706e214c0f8bb97efcb64/assets/body.png"/>
-  <img src="https://github.com/Smarkk2367/Smarkk2367/blob/ffb5c6d24de515e5b71e0b04f45eb9b890a03986/assets/knob.png"/>
+  <img src="assets/clean.svg"/>
 </div>
 
 ###
